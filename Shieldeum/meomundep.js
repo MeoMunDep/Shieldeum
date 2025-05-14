@@ -1,0 +1,1 @@
+console.log(`I'm not maintenance this game anymore, please choose another scripts!`)
